@@ -1,4 +1,4 @@
-<img alt="Plugate Logo" height="40" src="/assets/logo.svg">
+<img alt="Plugate Logo" height="48" src="/assets/logo.svg">
 
 **Ship more. Spend fewer tokens.**
 
